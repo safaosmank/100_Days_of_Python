@@ -1,6 +1,5 @@
-##Loops
-#using for loop
-#Average Height
-#Highest Score
-#Adding Evens
-#password generator
+## Loops
+# using for loop
+# Highest Score
+# Adding Evens
+# password generator
